@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋, I'm'm Victor</h1>
 <h3 align="center">A passionate frontend developer from Busia,Kenya,always looking to learn new stuff,and up my stack📚</h3>
 
-<p align="left"> <a href="https://twitter.com/viowiti12" target="blank"><img src="https://img.shields.io/twitter/follow/viowiti12?logo=twitter&style=for-the-badge" alt="viowiti12" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Dev__Vic" target="blank"><img src="https://img.shields.io/twitter/follow/viowiti12?logo=twitter&style=for-the-badge" alt="viowiti12" /></a> </p>
 
 - 🌱 I’m currently learning **React and React Native**
 
